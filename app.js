@@ -48,5 +48,10 @@
 // var attendence = true;
 // console.log(school_name, num, location, 45678910);
 
+ city_name = "Karachi"
+var num = 987654321;
+var khi = true;
+console.log(city_name, num, khi, 987654321);
+
 
 

@@ -52,6 +52,46 @@
 // var num = 987654321;
 // var khi = true;
 // console.log(city_name, num, khi, 987654321);
+//_______________07-08-25 _______________//
+document.write("my_name<br>")
+// document.write("my_name");
+
+// alert(1234)
+
+// var num = "Muhammad";
+// var num2 = "Ali"
+// console.log(num + num2);
+
+// var num = 12;
+// var num2 = 10;
+// alert(num + num2);
+
+// var num = +"10";
+// var test = true;
+// var str = "12";
+
+// console.log(typeof test);
+
+// document.write("Muhammad_Ali<br>");
+// document.write("Muhammaad_Ali");
+
+// alert(678900);
+
+// var num = "Awais"; 
+// var num2 = "Ali";
+// console.log(num + num2);
+
+// var num = 14;
+// var num2 = 20;
+// alert(num + num2);
+
+// var num = +"20";
+// var test = false;
+// var str = "10";
+
+// console.log(typeof test);
+
+
 
 
 

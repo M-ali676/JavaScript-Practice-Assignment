@@ -53,7 +53,7 @@
 // var khi = true;
 // console.log(city_name, num, khi, 987654321);
 //_______________07-08-25 _______________//
-document.write("my_name<br>")
+// document.write("my_name<br>")
 // document.write("my_name");
 
 // alert(1234)

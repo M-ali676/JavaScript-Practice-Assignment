@@ -91,6 +91,58 @@
 
 // console.log(typeof test);
 
+_____________________________________ 08-08-25 ________________________________________//
+
+// var num = "12";
+// var num2 = 5;
+// var result = "12" - "17"
+// console.log(typeof result);
+// console.log(num + num2);
+// console.log(num - num2);
+// console.log(num * num2);
+// console.log(num / num2);
+// console.log(num % num2);
+
+// var num = "14";
+// var num2 = 8;
+// var result = "14" - "18";
+// console.log(typeof result);
+// console.log(num + num2);
+// console.log(num - num2);
+// console.log(num * num2);
+// console.log(num / num2);
+// console.log(num % num2);
+
+// var num = "16";
+// var num2 = 28;
+// var result = "16" - "20";
+// console.log(typeof result);
+// console.log(num + num2);
+// console.log(num - num2);
+// console.log(num * num2);
+// console.log(num / num2);
+// console.log(num % num2);
+
+// var num = "24";
+// var num2 = 15;
+// var result = "24" - "18"
+// console.log(typeof result);
+// console.log(num + num2);
+// console.log(num - num2);
+// console.log(num * num2);
+// console.log(num / num2);
+// console.log(num % num2);
+
+// var num = "18";
+// var num2 = 16;
+// var result = "18" - "16";
+// console.log(typeof result);
+// console.log(num + num2);
+// console.log(num - num2);
+// console.log(num * num2);
+// console.log(num / num2);
+// console.log(num % num2)
+
 
 
 

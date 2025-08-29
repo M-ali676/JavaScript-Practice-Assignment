@@ -143,6 +143,140 @@ _____________________________________ 08-08-25 _________________________________
 // console.log(num / num2);
 // console.log(num % num2)
 
+_______________________ 24-08-2025 ______________________________//
+
+// var firstName = "Muhammad ";
+// var lastName = "Ali ";
+// var test = "test ";
+// console.log(firstName + lastName + test);
+
+// var firstName = "Awais ";
+// var lastName = "Ali ";
+// var chest = "chest";
+// console.log(firstName + lastName + chest);
+
+// var firstName = "Akbar ";
+// var lastName = "Ali ";
+// var solangi = "Solangi";
+// console.log(firstName + lastName + solangi);
+
+// var firstName = "Azlan ";
+// var lastName = "Ali ";
+// var boss = "Boss ";
+// console.log(firstName + lastName + boss);
+
+// var firstName = "Asjad ";
+// var lastName = "Ali ";
+// var student = "Student ";
+// console.log(firstName + lastName + student);
+
+// var firstName = "Asif ";
+// var lastName = "Ali ";
+// var engineer = "Engineer ";
+// console.log(firstName + lastName + engineer);
+
+// var firstName = "Ali "
+// var lastName = "Muhammad ";
+// var engineer = "Engineer ";
+// console.log(firstName + lastName + engineer);
+
+// var firstName = "Liquat ";
+// var lastName = "Ali ";
+// var officer = "Manager ";
+// console.log(firstName + lastName + officer);
+
+// //____________________________2nd step _____________________________________________//
+
+// var num = 2;
+// ++num; //pre increment//
+// num++; //post increment//
+// console.log(num++);
+// console.log(--num);
+// console.log(++num);
+// console.log(--num);
+
+// console.log(++num);
+// console.log(num + 1);
+
+// num++; num = num + 1
+// console.log(++num);
+// console.log(num);
+
+
+// var num = 4;
+// ++num;
+// num++;
+// console.log(num++);
+// console.log(--num);
+// console.log(++num);
+// console.log(--num);
+
+// console.log(++num);
+// console.log(num+1);
+
+// num++; num = num + 2;
+// console.log(++num);
+// console.log(num);
+
+
+// var num = 6;
+// ++num; 
+// num++;
+// console.log(num++);
+// console.log(--num);
+// console.log(++num);
+// console.log(--num);
+
+// console.log(++num);
+// console.log(num+3);
+
+// num++; num = num + 7;
+// console.log(++num);
+// console.log(num);
+
+
+// var num = "exclamation mark";
+// var num2 = "mark";
+// var test = true
+// alert(num, num2, test)
+// console.log(num, num2, test);
+
+// var number = 10;
+// number = number +1;
+// console.log(number--);
+// console.log(number); 
+
+// var number = 20;
+// number = number +2;
+// console.log(number--);
+// console.log(number);
+
+// var number = 30;
+// number = number +3;
+// console.log(number--);
+// console.log(number);
+
+// var number = 40;
+// number = number +4;
+// console.log(number--);
+// console.log(number);
+
+// var number = 50;
+// number = number +5;
+// console.log(number--);
+// console.log(number);
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
